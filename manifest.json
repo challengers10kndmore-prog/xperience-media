@@ -1,1 +1,518 @@
-{"version":1,"generated_at":"1970-01-01T00:00:00.000Z","maintenance":{"enabled":false,"message":null},"data":{"site_settings":null,"projects":[],"brands":[],"section_media":[],"testimonials":[],"services":[],"faqs":[],"before_after":[]}}
+{
+ "version": 1,
+ "generated_at": "2026-11-22T14:03:04.552Z",
+ "maintenance": {
+  "enabled": false,
+  "message": null
+ },
+ "data": {
+  "site_settings": {
+   "id": 1,
+   "hero_headline": "Stories, generated and cut by hand.",
+   "hero_sub": "I'm Daniel Ogbeifun Osewe. I direct AI films and edit video for brands, artists and creators who need work that stops the scroll.",
+   "hero_cta_primary": "Watch the reel",
+   "hero_cta_secondary": "Start a project",
+   "credit_line": "An Xperience production · Founded by Daniel Ogbeifun Osewe",
+   "tagline": "PLAY · CONNECT · EVOLVE",
+   "contact_email": null,
+   "whatsapp": null,
+   "seo_title": "Xperience | AI Video & Video Editing Studio by Daniel Ogbeifun Osewe",
+   "seo_description": "AI films, ads and social edits, directed and cut by Daniel Ogbeifun Osewe at Xperience.",
+   "og_image_url": null,
+   "maintenance": false,
+   "maintenance_message": "We're polishing a few frames. Back very soon.",
+   "stats": [
+    {
+     "key": "projects",
+     "todo": true,
+     "label": "Projects delivered",
+     "value": 0,
+     "suffix": "+"
+    },
+    {
+     "key": "views",
+     "todo": true,
+     "label": "Views generated",
+     "value": 0,
+     "suffix": "M+"
+    },
+    {
+     "key": "turnaround",
+     "todo": true,
+     "label": "Typical turnaround",
+     "value": 0,
+     "suffix": " days"
+    },
+    {
+     "key": "repeat",
+     "todo": true,
+     "label": "Repeat clients",
+     "value": 0,
+     "suffix": "%"
+    }
+   ],
+   "tools": [
+    {
+     "name": "Veo",
+     "group": "generative"
+    },
+    {
+     "name": "Kling",
+     "group": "generative"
+    },
+    {
+     "name": "Runway",
+     "group": "generative"
+    },
+    {
+     "name": "Midjourney",
+     "group": "generative"
+    },
+    {
+     "name": "ElevenLabs",
+     "group": "generative"
+    },
+    {
+     "name": "Premiere Pro",
+     "group": "finishing"
+    },
+    {
+     "name": "DaVinci Resolve",
+     "group": "finishing"
+    },
+    {
+     "name": "After Effects",
+     "group": "finishing"
+    },
+    {
+     "name": "CapCut",
+     "group": "finishing"
+    }
+   ],
+   "copy": {
+    "faq": {
+     "headline": "Questions, answered."
+    },
+    "proof": {
+     "headline": "Clients don't hire a tool. They hire a result."
+    },
+    "crafts": {
+     "ai": "Concept to finished film with generative tools. Ads, music videos, product films, worlds that don't exist yet.",
+     "editing": "Your footage, cut for pace, colour and sound. YouTube, reels, commercials, documentaries.",
+     "headline": "Two crafts. One eye."
+    },
+    "finale": {
+     "cta": "Start a project",
+     "headline": "Have footage? Have an idea? Let's make the cut."
+    },
+    "library": {
+     "sub": "Filter by craft, format or industry.",
+     "headline": "Everything, sorted."
+    },
+    "premium": {
+     "sub": "The pieces I'd show first, each with the brief, my role and the result.",
+     "headline": "Selected work."
+    },
+    "process": {
+     "steps": [
+      {
+       "text": "You send the idea, references, deadline and any footage. I come back with questions and a plan.",
+       "title": "Brief"
+      },
+      {
+       "text": "Look, pacing and key shots agreed before anything is made.",
+       "title": "Concept and boards"
+      },
+      {
+       "text": "AI shots generated and directed, or your footage organised and logged.",
+       "title": "Generate or shoot"
+      },
+      {
+       "text": "Cut for rhythm, coloured to match, mixed so it lands with or without sound.",
+       "title": "Edit, grade, sound"
+      },
+      {
+       "text": "Final files in every format you need, ready to post or run.",
+       "title": "Deliver"
+      }
+     ],
+     "headline": "From brief to final cut, in five passes."
+    },
+    "toolkit": {
+     "sub": "Generative models for the impossible shots, industry tools for the finish.",
+     "headline": "The kit."
+    },
+    "services": {
+     "headline": "Ways to work together."
+    },
+    "manifesto": {
+     "text": "AI gives me a thousand shots. Editing decides which twelve matter."
+    },
+    "beforeAfter": {
+     "sub": "Drag to see what happens between the first output and the final frame.",
+     "headline": "Raw in. Finished out."
+    }
+   },
+   "updated_at": "2026-11-22T05:07:07.696587+00:00"
+  },
+  "projects": [],
+  "brands": [
+   {
+    "id": "22cb7ba5-baff-4a69-8899-894699bcc14e",
+    "slug": "xanctum",
+    "name": "Xanctum",
+    "line": "Brand film and launch visuals for a market repositioning",
+    "website": null,
+    "logo_url": null,
+    "sort_order": 1,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "created_at": "2026-11-22T05:07:07.696587+00:00",
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "id": "4744a73d-9642-4766-a794-7eb0c53881f0",
+    "slug": "jobcondi",
+    "name": "Jobcondi",
+    "line": "Explainer and social videos for a career platform",
+    "website": null,
+    "logo_url": null,
+    "sort_order": 2,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "created_at": "2026-11-22T05:07:07.696587+00:00",
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "id": "f4afd979-a0b3-44f8-8467-4fa90c204bf0",
+    "slug": "xpers-streaming",
+    "name": "Xpers Streaming",
+    "line": "Launch promo and motion identity for a streaming app",
+    "website": null,
+    "logo_url": null,
+    "sort_order": 3,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "created_at": "2026-11-22T05:07:07.696587+00:00",
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   }
+  ],
+  "section_media": [
+   {
+    "key": "hero",
+    "label": "Hero",
+    "prompt": "A vast dark void with slow-drifting particles of violet and electric-blue light, faint volumetric beams from above, a glossy black floor with soft neon reflections, low fog rolling along the floor, camera pushing forward very slowly.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "manifesto",
+    "label": "Manifesto",
+    "prompt": "Hundreds of translucent film frames drifting through dark space in slow motion, most dim and out of focus; one frame in the centre sharpens and glows violet as the camera slowly dollies toward it.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "premium-intro",
+    "label": "Premium intro (2 s card)",
+    "prompt": "An empty dark cinema seen from the back row, a projector beam cutting through haze in violet and blue light, dust floating in the beam, the screen glowing soft white.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "crafts-ai",
+    "label": "Two Crafts: AI",
+    "prompt": "A surreal landscape forming out of liquid light, neon violet and blue geometry melting and re-forming like a fluid simulation, dreamlike and slow.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "crafts-editing",
+    "label": "Two Crafts: Editing",
+    "prompt": "Extreme close-up of an editing timeline on a dark monitor, clips sliding into place and a magenta playhead scrubbing across, very shallow depth of field so the interface is soft bokeh.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "library",
+    "label": "Work Library",
+    "prompt": "A slow tracking shot along a wall of glowing screens in a dark room, each playing abstract colourful motion, reflections on a glossy floor.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "process",
+    "label": "Process",
+    "prompt": "A single beam of violet light travelling along a dark horizontal track, passing through glass blocks that light up one after another, blue and magenta refractions, slow sideways camera move.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "toolkit",
+    "label": "Toolkit",
+    "prompt": "Chrome and glass objects (a camera lens, a film reel, a glowing cube) slowly rotating in a dark studio with neon rim light, product-shot style.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "proof",
+    "label": "Proof",
+    "prompt": "A crowd in silhouette lit only by the glow of phone screens in violet and blue, slow motion, shallow focus, no faces visible.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "service-ai-ad",
+    "label": "Service: AI ad (3 s, 4:5)",
+    "prompt": "Liquid chrome morphing into a sleek product shape.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "service-music",
+    "label": "Service: Music (3 s, 4:5)",
+    "prompt": "Neon stage lights pulsing through smoke.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "service-social",
+    "label": "Service: Social (3 s, 4:5)",
+    "prompt": "Vertical phone screens stacked in 3D space, scrolling.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "service-longform",
+    "label": "Service: Long-form (3 s, 4:5)",
+    "prompt": "A dark corridor of film strips gliding past the camera.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "key": "finale",
+    "label": "Finale",
+    "prompt": "Violet and blue light rising slowly over a reflective black floor with rolling fog, the centre of frame kept empty and dark, camera craning up slowly.",
+    "desktop_url": null,
+    "mobile_url": null,
+    "poster_url": null,
+    "overlay_opacity": 0.6,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   }
+  ],
+  "testimonials": [],
+  "services": [
+   {
+    "id": "3d0d6460-be2c-486a-a268-017b7a170270",
+    "slug": "ai-ad",
+    "title": "AI ad or product film",
+    "description": "A finished spot built with generative visuals, edited and scored for your channels.",
+    "included": [
+     "Concept and boards",
+     "Generated shots, directed",
+     "Edit, grade and sound",
+     "Cutdowns for each channel"
+    ],
+    "turnaround": "TODO",
+    "price_from": "TODO",
+    "loop_url": null,
+    "poster_url": null,
+    "sort_order": 1,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "id": "8ead707c-575a-4584-8063-35b04bfcd304",
+    "slug": "music",
+    "title": "Music video and visualizers",
+    "description": "Full videos, lyric visuals and loops that match the track's energy.",
+    "included": [
+     "Treatment",
+     "Full video or visualizer",
+     "Lyric visuals",
+     "Loops for streaming platforms"
+    ],
+    "turnaround": "TODO",
+    "price_from": "TODO",
+    "loop_url": null,
+    "poster_url": null,
+    "sort_order": 2,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "id": "123adea6-ddc7-4836-8c85-fb48bde8c1ba",
+    "slug": "social",
+    "title": "Monthly social edit pack",
+    "description": "A steady stream of short-form edits for Reels, TikTok and Shorts.",
+    "included": [
+     "Monthly batch of short edits",
+     "Captions and hooks",
+     "Vertical-first formats",
+     "Fast revision loop"
+    ],
+    "turnaround": "TODO",
+    "price_from": "TODO",
+    "loop_url": null,
+    "poster_url": null,
+    "sort_order": 3,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "id": "c73f3a60-b75f-4e53-aee9-a1d80dae6687",
+    "slug": "longform",
+    "title": "Long-form and YouTube editing",
+    "description": "Story-led edits for videos, documentaries and series, with grade and sound.",
+    "included": [
+     "Story edit",
+     "Colour grade",
+     "Sound mix",
+     "Thumbnails-ready stills"
+    ],
+    "turnaround": "TODO",
+    "price_from": "TODO",
+    "loop_url": null,
+    "poster_url": null,
+    "sort_order": 4,
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": null,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   }
+  ],
+  "faqs": [
+   {
+    "id": "0bba7e21-1170-4dc8-8c2f-88ac77863c12",
+    "question": "Who owns the final video?",
+    "answer": "You do. You get full commercial rights to the final delivered files.",
+    "sort_order": 1,
+    "published": true,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "id": "431aca07-aa43-4040-ac47-786f737a8a4b",
+    "question": "How long does a project take?",
+    "answer": "Most short pieces take TODO days from approved brief to delivery.",
+    "sort_order": 2,
+    "published": true,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "id": "882ccc90-2f00-44b8-9a0f-ada6f8daf4e4",
+    "question": "Can you work with footage I already have?",
+    "answer": "Yes. Send it in any format and I'll mix it with generated shots where it helps.",
+    "sort_order": 3,
+    "published": true,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "id": "f35be1e8-aa14-41a8-96b6-f91cda19ce7b",
+    "question": "How many revisions are included?",
+    "answer": "TODO rounds of revisions are included in every project.",
+    "sort_order": 4,
+    "published": true,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   },
+   {
+    "id": "39f879d2-efc1-46bf-a617-f05a2b8eb538",
+    "question": "How do we start?",
+    "answer": "Message me on WhatsApp or email with your idea and deadline. I'll reply with questions and a quote.",
+    "sort_order": 5,
+    "published": true,
+    "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   }
+  ],
+  "before_after": []
+ }
+}

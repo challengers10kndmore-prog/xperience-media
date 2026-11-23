@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-22T15:00:47.729Z",
+ "generated_at": "2026-11-23T06:25:09.266Z",
  "maintenance": {
   "enabled": false,
   "message": null
@@ -14,8 +14,8 @@
    "hero_cta_secondary": "Start a project",
    "credit_line": "An Xperience production · Founded by Daniel Ogbeifun Osewe",
    "tagline": "PLAY · CONNECT · EVOLVE",
-   "contact_email": null,
-   "whatsapp": null,
+   "contact_email": "ogbeifundaniel0@gmail.com",
+   "whatsapp": "2348078660415",
    "seo_title": "Xperience | AI Video & Video Editing Studio by Daniel Ogbeifun Osewe",
    "seo_description": "AI films, ads and social edits, directed and cut by Daniel Ogbeifun Osewe at Xperience.",
    "og_image_url": null,
@@ -153,7 +153,7 @@
      "headline": "Raw in. Finished out."
     }
    },
-   "updated_at": "2026-11-22T05:07:07.696587+00:00"
+   "updated_at": "2026-11-23T05:57:47.833124+00:00"
   },
   "projects": [],
   "brands": [

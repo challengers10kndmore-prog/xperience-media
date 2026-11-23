@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-23T21:39:10.111Z",
+ "generated_at": "2026-11-23T21:40:47.161Z",
  "maintenance": {
   "enabled": false,
   "message": null
@@ -153,7 +153,7 @@
      "headline": "Raw in. Finished out."
     }
    },
-   "updated_at": "2026-11-23T09:04:03.555506+00:00",
+   "updated_at": "2026-11-23T21:40:14.589493+00:00",
    "layout": {
     "order": [
      "work",
@@ -168,7 +168,9 @@
      "faq",
      "contact"
     ],
-    "hidden": []
+    "hidden": [
+     "before-after"
+    ]
    }
   },
   "projects": [

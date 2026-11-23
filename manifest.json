@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-23T08:45:35.413Z",
+ "generated_at": "2026-11-23T09:06:19.891Z",
  "maintenance": {
   "enabled": false,
   "message": null
@@ -153,7 +153,23 @@
      "headline": "Raw in. Finished out."
     }
    },
-   "updated_at": "2026-11-23T05:57:47.833124+00:00"
+   "updated_at": "2026-11-23T09:04:03.555506+00:00",
+   "layout": {
+    "order": [
+     "work",
+     "manifesto",
+     "premium",
+     "crafts",
+     "before-after",
+     "process",
+     "toolkit",
+     "proof",
+     "services",
+     "faq",
+     "contact"
+    ],
+    "hidden": []
+   }
   },
   "projects": [
    {

@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-23T09:06:19.891Z",
+ "generated_at": "2026-11-23T15:50:03.708Z",
  "maintenance": {
   "enabled": false,
   "message": null
@@ -817,6 +817,40 @@
     "media_synced_at": "2026-11-23T08:44:37.835+00:00",
     "created_at": "2026-11-23T07:17:37.591844+00:00",
     "updated_at": "2026-11-23T08:44:38.113017+00:00"
+   },
+   {
+    "id": "00a28112-ede7-44f3-870d-c602a25b42cb",
+    "title": "Ruth sample",
+    "slug": "untitled-scene-11-23-02-22-48-20261122183722-v45m",
+    "discipline": "ai",
+    "category": null,
+    "subcategory": null,
+    "aspect_ratio": "16:9",
+    "duration_s": 20,
+    "description": null,
+    "brief": null,
+    "role": null,
+    "result": null,
+    "tools": [],
+    "brand_id": null,
+    "is_featured": true,
+    "is_premium": true,
+    "premium_order": null,
+    "is_xperience_original": false,
+    "sort_order": 0,
+    "published": true,
+    "video_url": "v/00a28112-ede7-44f3-870d-c602a25b42cb.mp4",
+    "poster_url": "p/00a28112-ede7-44f3-870d-c602a25b42cb.jpg",
+    "teaser_url": "t/00a28112-ede7-44f3-870d-c602a25b42cb.mp4",
+    "full_video_url": null,
+    "caption": "Untitled Scene 11 23 02 22 48",
+    "show_caption": false,
+    "cover_url": "c/00a28112-ede7-44f3-870d-c602a25b42cb.jpg",
+    "og_url": "og/00a28112-ede7-44f3-870d-c602a25b42cb.jpg",
+    "media_status": "pending",
+    "media_synced_at": "2026-11-23T15:46:54.903+00:00",
+    "created_at": "2026-11-23T15:43:50.309264+00:00",
+    "updated_at": "2026-11-23T15:49:32.460486+00:00"
    },
    {
     "id": "0d722da3-3bab-4676-b5f9-d93417fad286",

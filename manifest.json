@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-23T08:38:54.409Z",
+ "generated_at": "2026-11-23T08:40:29.800Z",
  "maintenance": {
   "enabled": false,
   "message": null
@@ -1093,21 +1093,6 @@
     "updated_at": "2026-11-23T07:45:30.806007+00:00"
    },
    {
-    "key": "hero-idle",
-    "label": "Hero: idle loop (8 s, seamless)",
-    "prompt": "Daniel fully formed, standing calmly, subtle breathing and light shimmer, seamless 8 second loop. Camera locked, framing identical to the last frame of hero-assembly. Left third of frame darker and empty.",
-    "desktop_url": null,
-    "mobile_url": null,
-    "poster_url": null,
-    "overlay_opacity": 0.35,
-    "frames": {},
-    "published": true,
-    "media_status": "published",
-    "media_synced_at": null,
-    "created_at": "2026-11-23T07:45:30.806007+00:00",
-    "updated_at": "2026-11-23T07:45:30.806007+00:00"
-   },
-   {
     "key": "hero",
     "label": "Hero",
     "prompt": "A vast dark void with slow-drifting particles of violet and electric-blue light, faint volumetric beams from above, a glossy black floor with soft neon reflections, low fog rolling along the floor, camera pushing forward very slowly.",
@@ -1121,6 +1106,21 @@
     "media_synced_at": "2026-11-23T08:38:53.043+00:00",
     "created_at": "2026-11-22T14:44:08.810324+00:00",
     "updated_at": "2026-11-23T08:38:53.23081+00:00"
+   },
+   {
+    "key": "hero-idle",
+    "label": "Hero: idle loop (8 s, seamless)",
+    "prompt": "Daniel fully formed, standing calmly, subtle breathing and light shimmer, seamless 8 second loop. Camera locked, framing identical to the last frame of hero-assembly. Left third of frame darker and empty.",
+    "desktop_url": "s/hero-idle-desktop.mp4",
+    "mobile_url": "s/hero-idle-mobile.mp4",
+    "poster_url": "s/hero-idle-desktop.jpg",
+    "overlay_opacity": 0.35,
+    "frames": {},
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": "2026-11-23T08:40:27.565+00:00",
+    "created_at": "2026-11-23T07:45:30.806007+00:00",
+    "updated_at": "2026-11-23T08:40:28.201656+00:00"
    }
   ],
   "testimonials": [],

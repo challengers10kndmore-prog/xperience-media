@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-24T03:08:01.064Z",
+ "generated_at": "2026-11-24T11:03:07.559Z",
  "maintenance": {
   "enabled": false,
   "message": null
@@ -153,7 +153,7 @@
      "headline": "Raw in. Finished out."
     }
    },
-   "updated_at": "2026-11-24T02:05:57.398797+00:00",
+   "updated_at": "2026-11-24T10:18:49.472267+00:00",
    "layout": {
     "order": [
      "work",
@@ -172,7 +172,282 @@
      "before-after"
     ]
    },
-   "hero_cues": {}
+   "hero_cues": {
+    "loop": {
+     "cuts": [
+      {
+       "at": 6.667,
+       "to": "S4",
+       "from": "S3",
+       "type": "sparkle"
+      },
+      {
+       "at": 14.083,
+       "to": "S5",
+       "from": "S4",
+       "type": "sparkle"
+      },
+      {
+       "at": 21.5,
+       "to": "S6",
+       "from": "S5",
+       "type": "sparkle"
+      },
+      {
+       "at": 28.917,
+       "to": "S7",
+       "from": "S6",
+       "type": "sparkle"
+      },
+      {
+       "at": 36.333,
+       "to": "S3",
+       "from": "S7",
+       "type": "sparkle"
+      }
+     ],
+     "cards": [
+      {
+       "at": 0.8,
+       "slot": 1
+      },
+      {
+       "at": 2.6,
+       "slot": 2
+      },
+      {
+       "at": 4.4,
+       "slot": 3
+      },
+      {
+       "at": 7.4,
+       "slot": 1
+      },
+      {
+       "at": 10.4,
+       "slot": 2
+      },
+      {
+       "at": 13.4,
+       "slot": 3
+      },
+      {
+       "at": 15.2,
+       "slot": 1
+      },
+      {
+       "at": 18.2,
+       "slot": 2
+      },
+      {
+       "at": 21.2,
+       "slot": 3
+      },
+      {
+       "at": 22.4,
+       "slot": 1
+      },
+      {
+       "at": 25.4,
+       "slot": 2
+      },
+      {
+       "at": 28.4,
+       "slot": 3
+      },
+      {
+       "at": 29.6,
+       "slot": 1
+      },
+      {
+       "at": 32.6,
+       "slot": 2
+      },
+      {
+       "at": 35.6,
+       "slot": 3
+      }
+     ],
+     "headline": [
+      {
+       "at": 0,
+       "state": "docked"
+      }
+     ],
+     "cardRules": "Each cue brings the NEXT featured project into that slot (cycle through all featured). Slots 1-3 form a floating 3D arrangement inside zones.gallery. New cards fly in from depth with a light sweep; hold new arrivals until 0.4 s after a cut so they land just as the sparkle clears; slide away from active intrusions.",
+     "characters": [
+      {
+       "to": 6.667,
+       "from": 0,
+       "shot": "S3",
+       "zone": "leftLane",
+       "action": "presents toward the gallery",
+       "outfit": "signature"
+      },
+      {
+       "to": 14.083,
+       "from": 6.667,
+       "shot": "S4",
+       "zone": "floor",
+       "action": "walkers cross left to right, passing behind the gallery",
+       "outfit": "phid-hoodie + street-editor"
+      },
+      {
+       "to": 21.5,
+       "from": 14.083,
+       "shot": "S5",
+       "zone": "rightLane",
+       "action": "impossible lean / freeze, then sunglasses",
+       "outfit": "director"
+      },
+      {
+       "to": 28.917,
+       "from": 21.5,
+       "shot": "S6",
+       "zone": "leftLane",
+       "action": "floats cross-legged, turns upside down",
+       "outfit": "heritage"
+      },
+      {
+       "to": 36.333,
+       "from": 28.917,
+       "shot": "S7",
+       "zone": "rightLane",
+       "action": "finger-frame and camera flash toward the gallery",
+       "outfit": "future"
+      },
+      {
+       "to": 37.083,
+       "from": 36.333,
+       "shot": "S3",
+       "zone": "leftLane",
+       "action": "loop seam",
+       "outfit": "signature"
+      }
+     ],
+     "intrusions": [
+      {
+       "to": 17.2,
+       "from": 14.9,
+       "note": "Director's lean reaches into the gallery's right edge: slide the cards ~6% left and shrink 4%",
+       "side": "right"
+      },
+      {
+       "to": 27.1,
+       "from": 25.4,
+       "note": "Upside-down float reaches the gallery's left edge: slide the cards ~5% right",
+       "side": "left"
+      },
+      {
+       "to": 31.7,
+       "from": 28.9,
+       "note": "Finger-frame hands reach the gallery's right edge: slide the cards ~5% left",
+       "side": "right"
+      }
+     ]
+    },
+    "intro": {
+     "cards": [],
+     "flashes": [
+      {
+       "at": 1.05,
+       "note": "Lightning strike: optional 120 ms screen shake on the page chrome",
+       "type": "impact"
+      },
+      {
+       "at": 15,
+       "note": "Coin burst peak",
+       "type": "burst"
+      }
+     ],
+     "headline": [
+      {
+       "at": 4.4,
+       "note": "He has landed and is rising, centred; show the headline large in the empty left 35% of the frame",
+       "state": "large-left"
+      },
+      {
+       "at": 8.2,
+       "note": "Coin flip starts; the camera moves in, so clear the frame",
+       "state": "fade-out"
+      },
+      {
+       "at": 15.3,
+       "note": "Coin burst: the headline re-enters docked top-left (zones.headline) and stays docked for the loop",
+       "state": "docked"
+      }
+     ]
+    },
+    "notes": "Times in seconds. intro = hero-intro (15.83 s, plays once). loop = hero-loop (37.08 s, seamless). The intro's last frame equals the loop's first frame: switch at the intro's end with no crossfade. Zones are fractions of the 16:9 frame. Work cards only ever render inside zones.gallery, above the video.",
+    "zones": {
+     "nav": {
+      "h": 0.1,
+      "w": 1,
+      "x": 0,
+      "y": 0
+     },
+     "floor": {
+      "h": 0.36,
+      "w": 1,
+      "x": 0,
+      "y": 0.64
+     },
+     "gallery": {
+      "h": 0.42,
+      "w": 0.46,
+      "x": 0.27,
+      "y": 0.2
+     },
+     "headline": {
+      "h": 0.07,
+      "w": 0.37,
+      "x": 0.03,
+      "y": 0.11
+     },
+     "leftLane": {
+      "h": 0.44,
+      "w": 0.25,
+      "x": 0,
+      "y": 0.2
+     },
+     "rightLane": {
+      "h": 0.44,
+      "w": 0.25,
+      "x": 0.75,
+      "y": 0.2
+     }
+    },
+    "mobile": {
+     "loop": "hero-idle-loop-phone-9x16 (6.92 s seamless; this rotated version replaces the earlier phone idle file)",
+     "cards": "One card at a time in the mobile gallery, a new one every 3 s, starting 0.8 s into the idle loop.",
+     "intro": "hero-intro-phone-9x16 (15.83 s; centre crop; its last frame equals hero-idle-loop-phone-9x16's first frame)",
+     "gallery": {
+      "h": 0.3,
+      "w": 0.88,
+      "x": 0.06,
+      "y": 0.14
+     },
+     "headline": [
+      {
+       "at": 4.4,
+       "state": "top"
+      },
+      {
+       "at": 8.2,
+       "state": "fade-out"
+      },
+      {
+       "at": 15.3,
+       "state": "docked-top"
+      }
+     ]
+    },
+    "version": 1,
+    "durations": {
+     "loop": 37.083,
+     "intro": 15.833
+    }
+   }
   },
   "projects": [
    {
@@ -200,6 +475,7 @@
     "poster_url": "p/d067da6c-a041-41da-9393-04a4eb4f8ac6.jpg",
     "teaser_url": "t/d067da6c-a041-41da-9393-04a4eb4f8ac6.mp4",
     "full_video_url": null,
+    "source_url": null,
     "caption": "Comic panels brought to life: a rebel's call to arms, cut as a motion comic.",
     "show_caption": false,
     "cover_url": "c/d067da6c-a041-41da-9393-04a4eb4f8ac6.jpg",
@@ -234,6 +510,7 @@
     "poster_url": "p/00d764bc-4bfb-4258-962a-5c20203c3cb5.jpg",
     "teaser_url": "t/00d764bc-4bfb-4258-962a-5c20203c3cb5.mp4",
     "full_video_url": null,
+    "source_url": null,
     "caption": "Episode 6: guests check in by QR code in an explainer for a neighbourhood safety app.",
     "show_caption": false,
     "cover_url": "c/00d764bc-4bfb-4258-962a-5c20203c3cb5.jpg",
@@ -268,6 +545,7 @@
     "poster_url": "p/2187132f-8341-45b8-a8f1-74d8946e455f.jpg",
     "teaser_url": "t/2187132f-8341-45b8-a8f1-74d8946e455f.mp4",
     "full_video_url": null,
+    "source_url": null,
     "caption": "A calm desk-side look at brand strategy, from moodboard to finished identity.",
     "show_caption": false,
     "cover_url": "c/2187132f-8341-45b8-a8f1-74d8946e455f.jpg",
@@ -302,6 +580,7 @@
     "poster_url": "p/a4c56824-b7c8-45e0-aee9-aca7423244c1.jpg",
     "teaser_url": "t/a4c56824-b7c8-45e0-aee9-aca7423244c1.mp4",
     "full_video_url": null,
+    "source_url": null,
     "caption": "Episode 7: a friendly presenter walks neighbours through the safety app, to camera.",
     "show_caption": false,
     "cover_url": "c/a4c56824-b7c8-45e0-aee9-aca7423244c1.jpg",
@@ -336,6 +615,7 @@
     "poster_url": null,
     "teaser_url": null,
     "full_video_url": null,
+    "source_url": null,
     "caption": null,
     "show_caption": false,
     "cover_url": null,
@@ -370,6 +650,7 @@
     "poster_url": null,
     "teaser_url": null,
     "full_video_url": null,
+    "source_url": null,
     "caption": null,
     "show_caption": false,
     "cover_url": null,
@@ -404,6 +685,7 @@
     "poster_url": null,
     "teaser_url": null,
     "full_video_url": null,
+    "source_url": null,
     "caption": null,
     "show_caption": false,
     "cover_url": null,
@@ -438,6 +720,7 @@
     "poster_url": null,
     "teaser_url": null,
     "full_video_url": null,
+    "source_url": null,
     "caption": null,
     "show_caption": false,
     "cover_url": null,
@@ -472,6 +755,7 @@
     "poster_url": null,
     "teaser_url": null,
     "full_video_url": null,
+    "source_url": null,
     "caption": null,
     "show_caption": false,
     "cover_url": null,
@@ -506,6 +790,7 @@
     "poster_url": null,
     "teaser_url": null,
     "full_video_url": null,
+    "source_url": null,
     "caption": null,
     "show_caption": false,
     "cover_url": null,
@@ -540,6 +825,7 @@
     "poster_url": null,
     "teaser_url": null,
     "full_video_url": null,
+    "source_url": null,
     "caption": null,
     "show_caption": false,
     "cover_url": null,
@@ -574,6 +860,7 @@
     "poster_url": null,
     "teaser_url": null,
     "full_video_url": null,
+    "source_url": null,
     "caption": null,
     "show_caption": false,
     "cover_url": null,
@@ -608,6 +895,7 @@
     "poster_url": null,
     "teaser_url": null,
     "full_video_url": null,
+    "source_url": null,
     "caption": null,
     "show_caption": false,
     "cover_url": null,
@@ -642,6 +930,7 @@
     "poster_url": null,
     "teaser_url": null,
     "full_video_url": null,
+    "source_url": null,
     "caption": null,
     "show_caption": false,
     "cover_url": null,
@@ -676,6 +965,7 @@
     "poster_url": "p/f693cb29-a6cc-403f-ab4f-f88a7744bd21.jpg",
     "teaser_url": "t/f693cb29-a6cc-403f-ab4f-f88a7744bd21.mp4",
     "full_video_url": null,
+    "source_url": null,
     "caption": "Episode 5: how a neighbourhood safety app handles guests, alerts and wellness checks.",
     "show_caption": false,
     "cover_url": "c/f693cb29-a6cc-403f-ab4f-f88a7744bd21.jpg",
@@ -710,6 +1000,7 @@
     "poster_url": "p/89c1e3c9-1936-4b5c-a61d-09094bd2c8f6.jpg",
     "teaser_url": "t/89c1e3c9-1936-4b5c-a61d-09094bd2c8f6.mp4",
     "full_video_url": null,
+    "source_url": null,
     "caption": "A bold launch promo for Bolderr, moving through its UI and UX design patterns.",
     "show_caption": false,
     "cover_url": "c/89c1e3c9-1936-4b5c-a61d-09094bd2c8f6.jpg",
@@ -744,6 +1035,7 @@
     "poster_url": "p/b7e3b06e-5fef-497c-a0bd-298dfc0cf24b.jpg",
     "teaser_url": "t/b7e3b06e-5fef-497c-a0bd-298dfc0cf24b.mp4",
     "full_video_url": null,
+    "source_url": null,
     "caption": "A logo reveal for LOT61 coffee roasters, from roasted bean to brand mark.",
     "show_caption": false,
     "cover_url": "c/b7e3b06e-5fef-497c-a0bd-298dfc0cf24b.jpg",
@@ -778,6 +1070,7 @@
     "poster_url": "p/6ed672e8-970d-4f02-9324-9f041bc54af4.jpg",
     "teaser_url": "t/6ed672e8-970d-4f02-9324-9f041bc54af4.mp4",
     "full_video_url": null,
+    "source_url": null,
     "caption": "A bronze seal rests on polished wood, lit like a quiet moment of honour.",
     "show_caption": false,
     "cover_url": "c/6ed672e8-970d-4f02-9324-9f041bc54af4.jpg",
@@ -812,6 +1105,7 @@
     "poster_url": "p/bf01adce-bea8-416a-b2d8-f3726586d81e.jpg",
     "teaser_url": "t/bf01adce-bea8-416a-b2d8-f3726586d81e.mp4",
     "full_video_url": null,
+    "source_url": null,
     "caption": "A vertical brand reveal for Umm Asma, an Arabic coffee and hospitality service.",
     "show_caption": false,
     "cover_url": "c/bf01adce-bea8-416a-b2d8-f3726586d81e.jpg",
@@ -846,6 +1140,7 @@
     "poster_url": "p/00a28112-ede7-44f3-870d-c602a25b42cb.jpg",
     "teaser_url": "t/00a28112-ede7-44f3-870d-c602a25b42cb.mp4",
     "full_video_url": null,
+    "source_url": null,
     "caption": "Untitled Scene 11 23 02 22 48",
     "show_caption": false,
     "cover_url": "c/00a28112-ede7-44f3-870d-c602a25b42cb.jpg",
@@ -880,6 +1175,7 @@
     "poster_url": "p/0d722da3-3bab-4676-b5f9-d93417fad286.jpg",
     "teaser_url": "t/0d722da3-3bab-4676-b5f9-d93417fad286.mp4",
     "full_video_url": null,
+    "source_url": null,
     "caption": "A crisp logo reveal and workshop tour for AutoCorrect Car Care.",
     "show_caption": false,
     "cover_url": "c/0d722da3-3bab-4676-b5f9-d93417fad286.jpg",
@@ -1163,24 +1459,9 @@
     "updated_at": "2026-11-23T08:44:41.49023+00:00"
    },
    {
-    "key": "hero-intro",
-    "label": "Hero film: intro (plays once per visit)",
-    "prompt": "The new AI hero film, intro part. Desktop 16:9 and mobile 9:16. Its last frame must match the first frame of the hero loop.",
-    "desktop_url": null,
-    "mobile_url": null,
-    "poster_url": null,
-    "overlay_opacity": 0.2,
-    "frames": {},
-    "published": true,
-    "media_status": "published",
-    "media_synced_at": null,
-    "created_at": "2026-11-24T02:20:38.852033+00:00",
-    "updated_at": "2026-11-24T02:20:38.852033+00:00"
-   },
-   {
     "key": "hero-loop",
     "label": "Hero film: loop (seamless)",
-    "prompt": "The new AI hero film, loop part. Desktop 16:9 and mobile 9:16. Seamless; its first frame matches the intro's last frame.",
+    "prompt": "Desktop: hero-loop 16:9 (37.08 s, seamless). Mobile: leave empty (phones use the phone idle loop in \"Hero: idle loop\").",
     "desktop_url": null,
     "mobile_url": null,
     "poster_url": null,
@@ -1190,7 +1471,7 @@
     "media_status": "published",
     "media_synced_at": null,
     "created_at": "2026-11-24T02:20:38.852033+00:00",
-    "updated_at": "2026-11-24T02:20:38.852033+00:00"
+    "updated_at": "2026-11-24T11:03:01.475274+00:00"
    },
    {
     "key": "hero",
@@ -1208,9 +1489,24 @@
     "updated_at": "2026-11-23T08:41:27.510499+00:00"
    },
    {
+    "key": "hero-intro",
+    "label": "Hero film: intro (plays once per visit)",
+    "prompt": "Desktop: hero-intro 16:9 (15.83 s). Mobile: hero-intro-phone-9x16 (15.83 s). Its last frame matches the first frame of the loop (desktop) / the phone idle loop (mobile).",
+    "desktop_url": "s/hero-intro-desktop.mp4",
+    "mobile_url": "s/hero-intro-mobile.mp4",
+    "poster_url": "s/hero-intro-desktop.jpg",
+    "overlay_opacity": 0.2,
+    "frames": {},
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": "2026-11-24T11:03:05.394+00:00",
+    "created_at": "2026-11-24T02:20:38.852033+00:00",
+    "updated_at": "2026-11-24T11:03:05.98948+00:00"
+   },
+   {
     "key": "hero-idle",
-    "label": "Hero: idle loop (8 s, seamless)",
-    "prompt": "Daniel fully formed, standing calmly, subtle breathing and light shimmer, seamless 8 second loop. Camera locked, framing identical to the last frame of hero-assembly. Left third of frame darker and empty.",
+    "label": "Hero: idle loop (phone file = the hero film's phone loop, 6.92 s)",
+    "prompt": "Mobile: hero-idle-loop-phone-9x16 (6.92 s seamless). This replaces the earlier phone idle file; it follows the phone intro of the hero film. Desktop: keep the current file.",
     "desktop_url": "s/hero-idle-desktop.mp4",
     "mobile_url": "s/hero-idle-mobile.mp4",
     "poster_url": "s/hero-idle-desktop.jpg",
@@ -1220,7 +1516,7 @@
     "media_status": "published",
     "media_synced_at": "2026-11-23T08:40:27.565+00:00",
     "created_at": "2026-11-23T07:45:30.806007+00:00",
-    "updated_at": "2026-11-23T08:41:35.681293+00:00"
+    "updated_at": "2026-11-24T10:19:10.312539+00:00"
    }
   ],
   "testimonials": [],

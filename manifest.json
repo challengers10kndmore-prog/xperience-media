@@ -1,6 +1,6 @@
 {
  "version": 1,
- "generated_at": "2026-11-24T11:03:07.559Z",
+ "generated_at": "2026-11-24T11:04:21.604Z",
  "maintenance": {
   "enabled": false,
   "message": null
@@ -1459,21 +1459,6 @@
     "updated_at": "2026-11-23T08:44:41.49023+00:00"
    },
    {
-    "key": "hero-loop",
-    "label": "Hero film: loop (seamless)",
-    "prompt": "Desktop: hero-loop 16:9 (37.08 s, seamless). Mobile: leave empty (phones use the phone idle loop in \"Hero: idle loop\").",
-    "desktop_url": null,
-    "mobile_url": null,
-    "poster_url": null,
-    "overlay_opacity": 0.2,
-    "frames": {},
-    "published": true,
-    "media_status": "published",
-    "media_synced_at": null,
-    "created_at": "2026-11-24T02:20:38.852033+00:00",
-    "updated_at": "2026-11-24T11:03:01.475274+00:00"
-   },
-   {
     "key": "hero",
     "label": "Hero",
     "prompt": "A vast dark void with slow-drifting particles of violet and electric-blue light, faint volumetric beams from above, a glossy black floor with soft neon reflections, low fog rolling along the floor, camera pushing forward very slowly.",
@@ -1502,6 +1487,21 @@
     "media_synced_at": "2026-11-24T11:03:05.394+00:00",
     "created_at": "2026-11-24T02:20:38.852033+00:00",
     "updated_at": "2026-11-24T11:03:05.98948+00:00"
+   },
+   {
+    "key": "hero-loop",
+    "label": "Hero film: loop (seamless)",
+    "prompt": "Desktop: hero-loop 16:9 (37.08 s, seamless). Mobile: leave empty (phones use the phone idle loop in \"Hero: idle loop\").",
+    "desktop_url": "s/hero-loop-desktop.mp4",
+    "mobile_url": "s/hero-loop-mobile.mp4",
+    "poster_url": "s/hero-loop-desktop.jpg",
+    "overlay_opacity": 0.2,
+    "frames": {},
+    "published": true,
+    "media_status": "published",
+    "media_synced_at": "2026-11-24T11:04:19.932+00:00",
+    "created_at": "2026-11-24T02:20:38.852033+00:00",
+    "updated_at": "2026-11-24T11:04:20.762597+00:00"
    },
    {
     "key": "hero-idle",
